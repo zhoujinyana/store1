@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "useUnicode",
+      "type": "java.lang.String",
+      "description": "Description for useUnicode."
+  }
+] }
